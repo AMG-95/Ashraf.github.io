@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashraf Gaber CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Ashraf Gaber</h1>
+        <p>Dubai | +971 50 927 6679 | +201023433156</p>
+        <p>Visit Visa | <a href="mailto:Ashraf.mo.gaber@gmail.com">Ashraf.mo.gaber@gmail.com</a></p>
+    </header>
+
+    <section>
+        <h2>Objective</h2>
+        <p>To work in a professional environment that fosters success and growth, where I can apply my skills and knowledge in Quality Control to ensure product excellence and contribute to the continuous improvement of processes and standards.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>Proctor and Gamble - QA Lab Senior Analyst</h3>
+        <p><strong>12.2019 – Present</strong></p>
+        <ul>
+            <li>Conducted product analysis using various techniques including GC and FTIR.</li>
+            <li>Performed raw material testing and served as a backup in the raw material lab.</li>
+            <li>Coordinated safety protocols and enhanced sensory skills across the site.</li>
+        </ul>
+
+        <h3>Ceramic Cleopatra Group - RM Lab Analyst</h3>
+        <p><strong>10.2018 – 11.2019</strong></p>
+        <ul>
+            <li>Responsible for receiving and analyzing raw materials to ensure quality.</li>
+            <li>Developed new blends of materials to resolve product issues and optimize processes.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p><strong>Al-Azhar University</strong> - Bachelor of Science in Chemistry (2018) - Very Good</p>
+    </section>
+
+    <section>
+        <h2>Communication Skills</h2>
+        <ul>
+            <li>Effective presentation skills to convey complex information clearly.</li>
+            <li>Proficient in collaborating with cross-functional teams to achieve goals.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>References</h2>
+        <p>Mohamed Shaker - Microbiology Capability System Manager</p>
+        <p>Phone: +330683684718</p>
+    </section>
+</body>
+</html>
